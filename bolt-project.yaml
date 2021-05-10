@@ -1,0 +1,7 @@
+---
+name: boltlab
+modules:
+- jovandeginste/scoop
+- puppetlabs/chocolatey
+- puppet/windows_env
+- puppetlabs/vcsrepo
